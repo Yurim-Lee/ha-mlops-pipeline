@@ -12,7 +12,7 @@ on:
       - 'day3/lab3-2_monitoring-cicd/src/**'
       - 'day3/lab3-2_monitoring-cicd/tests/**'
       - 'day3/lab3-2_monitoring-cicd/requirements.txt'
-      - '.github/workflows/ci-test.yaml'
+      - '.github/workflows/ci-test.yaml' 
   pull_request:
     branches: [main]
 
